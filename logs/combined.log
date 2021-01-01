@@ -1,0 +1,56 @@
+{"level":"error"}
+{"level":"error"}
+{"message":"Employee with this email already exists.","level":"http"}
+{"message":["\"email\" must be a valid email"],"level":"http"}
+{"message":"Invalid Request URL","level":"http"}
+{"level":"error"}
+{"message":"Email cannot be changed.","level":"http"}
+{"message":"Employee with this email already exists.","level":"http"}
+{"message":"Email cannot be changed.","level":"http"}
+{"message":["\"dateofbirth\" with value \"02-03-90\" fails to match the required pattern: /^\\d{2}-\\d{2}-\\d{4}$/"],"level":"http"}
+{"message":"Invalid Request URL","level":"http"}
+{"message":"Invalid Request URL","level":"http"}
+{"message":"Unable to find record","level":"http"}
+{"message":"Email cannot be changed.","level":"http"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Invalid Request URL","level":"http"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Invalid Request URL","level":"http"}
+{"message":"Invalid Request URL","level":"http"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
+{"message":"Application is listening for incomming requests on port 8080","level":"info"}
